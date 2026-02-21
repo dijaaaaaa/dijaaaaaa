@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Dija I am an app developer aprientice<br> I’m currently learning c# in school<br>⚡ Fun fact i love squirrles
+About me: Hi! My name is Dija I am an app developer aprientice<br> learing rn: I’m currently learning c# in school<br> Fun fact: i love squirrles
 
 
 ## 🌐 Socials:
