@@ -12,6 +12,7 @@ My LinkedIn:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaudija-davidović-058b38395/)
 
 My Itch.io profile:
+
 [![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)](https://kingdijaiii.itch.io) 
 
 # ⭐️ Tech Stack:  
@@ -24,7 +25,6 @@ In my freetime i use:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white) 
 
 # ⭐️ GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=dijaaaaaa&theme=jolly&hide_border=false&include_all_commits=true&count_private=true)<br/>
