@@ -7,6 +7,7 @@ Planing on publushing a game in the future. (˙ω˙)🎮(˙∀˙)🎮
 
 # ⭐️ Socials: 	
 My LinkedIn if youre interested:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaudija-davidović-058b38395/) 
 
 # ⭐️ Tech Stack:  	
