@@ -1,6 +1,7 @@
 # 💫 About Me
 # App Developer Apprentice
 I love Building small game projects.
+
 Planing on publushing a game in the future. (≧◡≦)
 
 
