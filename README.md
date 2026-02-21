@@ -1,5 +1,7 @@
-# 💫 About Me:
-About me: Hi! My name is Dija I am an app developer aprientice<br> learing rn: I’m currently learning c# in school<br> Fun fact: i love squirrles
+# 💫 About Me
+# App Developer Apprentice
+I love Building small game projects.
+Planing on publushing a game in the future. (≧◡≦)
 
 
 ## 🌐 Socials:
