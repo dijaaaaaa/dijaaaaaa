@@ -1,4 +1,4 @@
-#  About Me:  ☆ ～('▽^人)
+##  About Me:  ☆ ～('▽^人)
 # App Developer Apprentice
 I love Building small game projects.
 
