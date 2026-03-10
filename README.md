@@ -60,11 +60,6 @@
 
 ###  stats ( ◡̀_◡́)ᕤ
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dijaaaaaa&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff69b4&icon_color=ff85b3&text_color=cc3377" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijaaaaaa&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff69b4&text_color=cc3377" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=dijaaaaaa&hide_border=true&background=fff0f7&ring=ff69b4&fire=ff85b3&currStreakLabel=ff69b4&dates=cc3377&sideLabels=cc3377&sideNums=ff69b4&currStreakNum=ff69b4" />
 
 </div>
