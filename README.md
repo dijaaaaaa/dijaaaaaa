@@ -13,7 +13,7 @@
 
 > **A visual novel that teaches C#** because the best way to learn is by having fun.
 >
-> Players follow a character, make choices, and *accidentally* absorb C# concepts along the way. 
+> Players follow a character, make choices, and absorb C# concepts along the way. 
 
 <div align="center">
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
