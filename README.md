@@ -15,7 +15,7 @@
 >
 > Players follow a character, make choices, and *accidentally* absorb C# concepts along the way. 
 
----
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 | *More projects coming soon, stay tuned!*
 
----
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 -  designing characters & writing branching dialogue
 -  learning narrative design + game scripting
 
----
+⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
 
 <div align="center">
 
