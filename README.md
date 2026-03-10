@@ -4,7 +4,7 @@
 
 
 
----
+
 
 
 ### what i'm building ( °ヮ° ) ?
@@ -54,7 +54,7 @@
 -  designing characters & writing branching dialogue
 -  learning narrative design + game scripting
 
----
+
 
 <div align="center">
 
@@ -69,14 +69,13 @@
 
 </div>
 
----
 
 <div align="center">
 
 ### get in touch! ( • ̀ω•́ )✧
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb3d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb3d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/klaudija-davidović-058b38395/)
+[![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:klaudijadavidovic0@gmail.com)
 
 <br/>
 
