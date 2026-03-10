@@ -1,11 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hey,%20i'm%20Dija%20🌸&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice%20%7C%20C%23%20storyteller&descAlignY=58&descSize=18&descColor=ffe6f2" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hey,%20i'm%20Dija%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice%20%7C%20C%23%20storyteller&descAlignY=58&descSize=18&descColor=ffe6f2" />
 
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=ff69b4&center=true&vCenter=true&width=520&lines=building+a+C%23+visual+novel+%F0%9F%8E%AE;teaching+code+through+stories+%F0%9F%93%96;making+programming+fun+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
@@ -27,7 +24,7 @@
 
 ###  projects
 
-</div>
+
 
 |  project |  what it is |  built with |
 |---|---|---|
