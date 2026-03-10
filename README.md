@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hey,%20i'm%20Dija%20🌸&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice%20%7C%20C%23%20storyteller&descAlignY=58&descSize=18&descColor=ffe6f2" />
 
-<img src="./mascot.png" width="150" alt="Dija's mascot" />
 
 <br/>
 
@@ -14,39 +13,38 @@
 
 <div align="center">
 
-### 🌸 what i'm building
+### what i'm building
 
 </div>
 
-> **📖 A visual novel that teaches C#** — because the best way to learn is by having fun.
+> **📖 A visual novel that teaches C#** because the best way to learn is by having fun.
 >
-> Players follow characters, make choices, and *accidentally* absorb C# concepts along the way. 💕
+> Players follow characters, make choices, and *accidentally* absorb C# concepts along the way. 
 
 ---
 
 <div align="center">
 
-### 🎀 projects
+###  projects
 
 </div>
 
-| 🌸 project | 📖 what it is | 🛠️ built with |
+|  project |  what it is |  built with |
 |---|---|---|
-| **C# Visual Novel** *(in progress)* | An interactive story that teaches C# fundamentals through gameplay and choices | C#, Ren'Py, Python |
+| **C# Visual Novel** *(in progress)* | An interactive story that teaches C# fundamentals through gameplay and choices | Ren'Py |
 
-> 💡 *More projects coming soon — stay tuned!*
+| *More projects coming soon, stay tuned!*
 
 ---
 
 <div align="center">
 
-### 🛠️ my stack
+###  my stack
 
 ![C#](https://img.shields.io/badge/C%23-ff85b3?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ffadd6?style=for-the-badge&logo=python&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-ff69b4?style=for-the-badge&logo=renpy&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-ffb3d9?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-ff85b3?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -54,21 +52,21 @@
 
 <div align="center">
 
-### 🌷 currently
+###  currently
 
 </div>
 
-- 🔨 building my C# visual novel
-- 🎨 designing characters & writing branching dialogue
-- 📚 learning narrative design + game scripting
+-  building my C# visual novel
+-  designing characters & writing branching dialogue
+-  learning narrative design + game scripting
 
 ---
 
 <div align="center">
 
-### 📊 stats
+###  stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff69b4&icon_color=ff85b3&text_color=cc3377" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dijaaaaaa&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff69b4&icon_color=ff85b3&text_color=cc3377" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff69b4&text_color=cc3377" />
 
 <br/>
@@ -81,15 +79,13 @@
 
 <div align="center">
 
-### 🩷 get in touch
+### get in touch!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb3d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-ff85b3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
 <br/>
 
-*"the story is the syntax"* 🌸
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb3d9&height=100&section=footer" />
 
