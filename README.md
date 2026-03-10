@@ -15,7 +15,9 @@
 >
 > Players follow a character, make choices, and *accidentally* absorb C# concepts along the way. 
 
+<div align="center">
 ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+</div>
 
 <div align="center">
 
