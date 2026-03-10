@@ -13,7 +13,7 @@
 
 <div align="center">
 
-### 🌸 what i'm building
+###  what i'm building
 
 </div>
 
