@@ -10,7 +10,7 @@
 
 <div align="center">
 
-### what i'm building
+### what i'm building ( °ヮ° ) ?
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-###  projects
+###  projects (૭ ｡•̀ ᵕ •́｡ )૭
 
 
 
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-###  my stack
+###  my stack ദ്ദി(˵ •̀ ᴗ - ˵ ) ✧
 
 ![C#](https://img.shields.io/badge/C%23-ff85b3?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ffadd6?style=for-the-badge&logo=python&logoColor=white)
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-###  currently
+###  currently ( ˶°ㅁ°) !!
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-###  stats
+###  stats ( ◡̀_◡́)ᕤ
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=dijaaaaaa&show_icons=true&hide_border=true&bg_color=fff0f7&title_color=ff69b4&icon_color=ff85b3&text_color=cc3377" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dijaaaaaa&layout=compact&hide_border=true&bg_color=fff0f7&title_color=ff69b4&text_color=cc3377" />
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-### get in touch!
+### get in touch! ( • ̀ω•́ )✧
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffb3d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
