@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hey,%20i'm%20Dija%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice%20%7C%20C%23%20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hey,%20i'm%20Dija%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice" />
 
 
 
 ---
 
-<div align="center">
 
 ### what i'm building ( °ヮ° ) ?
 
