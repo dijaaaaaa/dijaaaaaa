@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hii,%20i'm%20Dija!%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice" />
-
 
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/1420841205008437294/1487851868045705236/IMG_1477.png?ex=69caa588&is=69c95408&hm=b3595e09931ca7a8921628bd19163f5bfdb4df5ceb68621ebd6b7804bec1df00&" width="500" alt="logo">
@@ -80,7 +76,3 @@
 
 <br/>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:ffb3d9&height=100&section=footer" />
-
-</div>
