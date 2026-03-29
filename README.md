@@ -3,7 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb3d9,100:ff69b4&height=200&section=header&text=hii,%20i'm%20Dija!%20&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=app%20developer%20apprentice" />
 
 
-
+<div align="center">
+  <img src="logo.png" width="200" alt="logo">
+</div>
 
 
 
